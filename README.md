@@ -1,0 +1,4 @@
+- 👋 I’m Behnam Moeinrad
+- 👀 I’m interested in data science, Machine Learning, game development
+- 🌱 I’m currently learning ML
+- 📫 How to reach me by my email on my profile
